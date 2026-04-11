@@ -27,8 +27,8 @@
         isPlaying = false; 
 
     const musicLinks = [
-        "/assets/music/1.mp3",
-        "/assets/music/2.mp3",
+        "assets/music/1.mp3",
+        "assets/music/2.mp3",
     ];
 
     function getRandomMusicLink() {
